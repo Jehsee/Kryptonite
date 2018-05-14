@@ -12,7 +12,7 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
-
+	pg_ctl -D /usr/local/pgsql/data -l logfile start
 * Database initialization
 
 * How to run the test suite
